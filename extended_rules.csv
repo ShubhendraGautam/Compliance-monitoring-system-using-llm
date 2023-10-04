@@ -1,0 +1,1001 @@
+RuleID,Description
+R0001,Users should not delete /resource/5 more than 2 times in a day
+R0002,Users should not access /resource/10 between 12:00 and 13:00
+R0003,Users should not delete /resource/6 more than 2 times in a day
+R0004,Users should not access /resource/9 between 12:00 and 13:00
+R0005,Users should not delete /resource/10 on weekends
+R0006,Users should not delete /resource/7 on weekends
+R0007,Users should not access /resource/2 between 12:00 and 13:00
+R0008,Access to /resource/10 from SessionID 192.168.1.3 should be flagged
+R0009,Any access from UserAgent /resource/10 should be reviewed
+R0010,Users should not access /resource/6 more than 5 times in an hour
+R0011,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0012,Any access to /resource/8 resulting in a 192.168.1.13 response code should be reviewed
+R0013,Users should not delete /resource/5 more than 2 times in a day
+R0014,Access to /resource/10 should result in success
+R0015,Response time for accessing /resource/9 should be less than 500ms
+R0016,Access to /resource/6 should not be from IP 192.168.1.50
+R0017,Users should not access /resource/7 between 12:00 and 13:00
+R0018,Users should not modify /resource/8
+R0019,Access to /resource/8 from SessionID 192.168.1.41 should be flagged
+R0020,Access to /resource/9 should result in success
+R0021,Users should not delete /resource/9 more than 2 times in a day
+R0022,Users should not access /resource/9 more than 5 times in an hour
+R0023,Modification of /resource/6 should always be from IP 192.168.1.60
+R0024,Modification of /resource/5 should always be from IP 192.168.1.53
+R0025,Access to /resource/10 should result in success
+R0026,Users should not delete /resource/9 on weekends
+R0027,Access to /resource/3 should not be from IP 192.168.1.19
+R0028,Access to /resource/3 should result in success
+R0029,Users should not modify /resource/4
+R0030,Users should not delete /resource/1 more than 2 times in a day
+R0031,Response time for accessing /resource/6 should be less than 500ms
+R0032,Users should not modify /resource/3
+R0033,Users should not delete /resource/6 more than 2 times in a day
+R0034,Access to /resource/8 should result in success
+R0035,Users should not delete /resource/7 more than 2 times in a day
+R0036,Any access from UserAgent /resource/7 should be reviewed
+R0037,Access to /resource/9 from SessionID 192.168.1.79 should be flagged
+R0038,Users should not delete /resource/8 on weekends
+R0039,Users should not delete /resource/5 more than 2 times in a day
+R0040,Access to /resource/2 should result in success
+R0041,Modification of /resource/7 should always be from IP 192.168.1.99
+R0042,Users should not delete /resource/9 on weekends
+R0043,Access to /resource/1 from SessionID 192.168.1.49 should be flagged
+R0044,Users should not delete /resource/3 on weekends
+R0045,Users should not modify /resource/5
+R0046,Users should not delete /resource/1 on weekends
+R0047,Users should not delete /resource/7 on weekends
+R0048,Any access from UserAgent /resource/6 should be reviewed
+R0049,Access to /resource/2 should not be from IP 192.168.1.41
+R0050,Access to /resource/7 should not use the 192.168.1.30 method
+R0051,Access from IP /resource/5 should be monitored
+R0052,Users should not delete /resource/3 more than 2 times in a day
+R0053,Access from IP /resource/6 should be monitored
+R0054,Access to /resource/3 from SessionID 192.168.1.47 should be flagged
+R0055,Access from IP /resource/8 should be monitored
+R0056,Users should not delete /resource/4 more than 2 times in a day
+R0057,Access from IP /resource/7 should be monitored
+R0058,Access from IP /resource/2 should be monitored
+R0059,Users should not access /resource/10 between 12:00 and 13:00
+R0060,Access to /resource/9 should not use the 192.168.1.59 method
+R0061,Any access to /resource/3 resulting in a 192.168.1.89 response code should be reviewed
+R0062,Access to /resource/8 should result in success
+R0063,Response time for accessing /resource/8 should be less than 500ms
+R0064,Users should not delete /resource/1 on weekends
+R0065,Modification of /resource/2 should always be from IP 192.168.1.1
+R0066,Access to /resource/9 should result in success
+R0067,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0068,Access to /resource/3 should result in success
+R0069,Users should not modify /resource/4
+R0070,Access to /resource/4 from SessionID 192.168.1.23 should be flagged
+R0071,Users should not access /resource/5 between 12:00 and 13:00
+R0072,Users should not access /resource/4 more than 5 times in an hour
+R0073,Users should not access /resource/1 more than 5 times in an hour
+R0074,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0075,Any access from UserAgent /resource/3 should be reviewed
+R0076,Access to /resource/10 should not use the 192.168.1.15 method
+R0077,Users should not delete /resource/8 on weekends
+R0078,Users should not modify /resource/8
+R0079,Access to /resource/4 from SessionID 192.168.1.7 should be flagged
+R0080,Users should not access /resource/3 between 12:00 and 13:00
+R0081,Users should not delete /resource/2 more than 2 times in a day
+R0082,Access to /resource/1 should result in success
+R0083,Access to /resource/1 from SessionID 192.168.1.3 should be flagged
+R0084,Users should not delete /resource/3 more than 2 times in a day
+R0085,Access from IP /resource/7 should be monitored
+R0086,Users should not delete /resource/1 on weekends
+R0087,Any access from UserAgent /resource/9 should be reviewed
+R0088,Users should not delete /resource/6 on weekends
+R0089,Users should not delete /resource/7 more than 2 times in a day
+R0090,Modification of /resource/8 should always be from IP 192.168.1.83
+R0091,Access to /resource/8 should not use the 192.168.1.77 method
+R0092,Any access to /resource/3 resulting in a 192.168.1.39 response code should be reviewed
+R0093,Any access to /resource/3 resulting in a 192.168.1.30 response code should be reviewed
+R0094,Access to /resource/9 from SessionID 192.168.1.63 should be flagged
+R0095,Users should not access /resource/8 more than 5 times in an hour
+R0096,Response time for accessing /resource/8 should be less than 500ms
+R0097,Modification of /resource/3 should always be from IP 192.168.1.21
+R0098,Users should not access /resource/7 more than 5 times in an hour
+R0099,Access to /resource/10 from SessionID 192.168.1.45 should be flagged
+R0100,Access to /resource/9 from SessionID 192.168.1.54 should be flagged
+R0101,Any access from UserAgent /resource/2 should be reviewed
+R0102,Any access to /resource/10 resulting in a 192.168.1.48 response code should be reviewed
+R0103,Users should not delete /resource/3 more than 2 times in a day
+R0104,Any access from UserAgent /resource/1 should be reviewed
+R0105,Users should not access /resource/4 between 12:00 and 13:00
+R0106,Users should not delete /resource/2 on weekends
+R0107,Any access from UserAgent /resource/3 should be reviewed
+R0108,Users should not modify /resource/6
+R0109,Access to /resource/1 should result in success
+R0110,Any access to /resource/8 resulting in a 192.168.1.26 response code should be reviewed
+R0111,Access from IP /resource/5 should be monitored
+R0112,Users should not modify /resource/6
+R0113,Users should not modify /resource/3
+R0114,Any access to /resource/8 resulting in a 192.168.1.11 response code should be reviewed
+R0115,Any access to /resource/1 resulting in a 192.168.1.13 response code should be reviewed
+R0116,Access from IP /resource/4 should be monitored
+R0117,Response time for accessing /resource/6 should be less than 500ms
+R0118,Users should not access /resource/6 between 12:00 and 13:00
+R0119,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0120,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0121,Users should not access /resource/10 between 12:00 and 13:00
+R0122,Users should not delete /resource/10 more than 2 times in a day
+R0123,Users should not delete /resource/6 on weekends
+R0124,Users should not access /resource/4 more than 5 times in an hour
+R0125,Access to /resource/1 should not be from IP 192.168.1.54
+R0126,Response time for accessing /resource/8 should be less than 500ms
+R0127,Access to /resource/3 should not use the 192.168.1.64 method
+R0128,Users should not access /resource/9 between 12:00 and 13:00
+R0129,Users should not access /resource/7 more than 5 times in an hour
+R0130,Any access to /resource/7 resulting in a 192.168.1.42 response code should be reviewed
+R0131,Any access to /resource/4 resulting in a 192.168.1.98 response code should be reviewed
+R0132,Users should not access /resource/10 more than 5 times in an hour
+R0133,Users should not delete /resource/5 on weekends
+R0134,Users should not delete /resource/10 on weekends
+R0135,Access to /resource/3 from SessionID 192.168.1.29 should be flagged
+R0136,Access to /resource/8 from SessionID 192.168.1.24 should be flagged
+R0137,Users should not access /resource/1 more than 5 times in an hour
+R0138,Modification of /resource/2 should always be from IP 192.168.1.68
+R0139,Users should not modify /resource/7
+R0140,Access to /resource/2 between 15:00 and 16:00 should be flagged
+R0141,Users should not access /resource/2 between 12:00 and 13:00
+R0142,Users should not delete /resource/10 more than 2 times in a day
+R0143,Access to /resource/6 should not use the 192.168.1.34 method
+R0144,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0145,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0146,Access from IP /resource/9 should be monitored
+R0147,Access to /resource/9 between 15:00 and 16:00 should be flagged
+R0148,Users should not modify /resource/4
+R0149,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0150,Response time for accessing /resource/2 should be less than 500ms
+R0151,Users should not delete /resource/3 more than 2 times in a day
+R0152,Any access to /resource/10 resulting in a 192.168.1.95 response code should be reviewed
+R0153,Access to /resource/5 should not use the 192.168.1.70 method
+R0154,Any access to /resource/5 resulting in a 192.168.1.41 response code should be reviewed
+R0155,Access to /resource/9 from SessionID 192.168.1.30 should be flagged
+R0156,Users should not access /resource/1 between 12:00 and 13:00
+R0157,Users should not delete /resource/2 more than 2 times in a day
+R0158,Response time for accessing /resource/3 should be less than 500ms
+R0159,Access to /resource/8 should result in success
+R0160,Users should not delete /resource/6 on weekends
+R0161,Users should not access /resource/7 between 12:00 and 13:00
+R0162,Users should not delete /resource/1 more than 2 times in a day
+R0163,Users should not modify /resource/7
+R0164,Modification of /resource/7 should always be from IP 192.168.1.26
+R0165,Users should not modify /resource/8
+R0166,Access to /resource/3 should result in success
+R0167,Access to /resource/3 should not use the 192.168.1.100 method
+R0168,Access from IP /resource/1 should be monitored
+R0169,Response time for accessing /resource/7 should be less than 500ms
+R0170,Response time for accessing /resource/4 should be less than 500ms
+R0171,Access to /resource/8 should result in success
+R0172,Response time for accessing /resource/10 should be less than 500ms
+R0173,Access to /resource/5 should result in success
+R0174,Users should not delete /resource/1 on weekends
+R0175,Access to /resource/2 should not use the 192.168.1.88 method
+R0176,Any access to /resource/4 resulting in a 192.168.1.99 response code should be reviewed
+R0177,Users should not delete /resource/4 more than 2 times in a day
+R0178,Access to /resource/1 from SessionID 192.168.1.64 should be flagged
+R0179,Response time for accessing /resource/10 should be less than 500ms
+R0180,Users should not delete /resource/7 on weekends
+R0181,Users should not delete /resource/9 more than 2 times in a day
+R0182,Users should not delete /resource/3 on weekends
+R0183,Users should not access /resource/5 between 12:00 and 13:00
+R0184,Users should not delete /resource/4 more than 2 times in a day
+R0185,Users should not access /resource/5 more than 5 times in an hour
+R0186,Access to /resource/1 should result in success
+R0187,Access to /resource/9 should not be from IP 192.168.1.38
+R0188,Users should not delete /resource/3 on weekends
+R0189,Any access from UserAgent /resource/1 should be reviewed
+R0190,Access to /resource/9 should not use the 192.168.1.86 method
+R0191,Users should not modify /resource/4
+R0192,Access to /resource/6 should not be from IP 192.168.1.30
+R0193,Response time for accessing /resource/7 should be less than 500ms
+R0194,Modification of /resource/3 should always be from IP 192.168.1.84
+R0195,Response time for accessing /resource/3 should be less than 500ms
+R0196,Access to /resource/10 should not use the 192.168.1.41 method
+R0197,Users should not modify /resource/5
+R0198,Access to /resource/9 should not use the 192.168.1.90 method
+R0199,Access to /resource/3 should result in success
+R0200,Modification of /resource/5 should always be from IP 192.168.1.71
+R0201,Response time for accessing /resource/1 should be less than 500ms
+R0202,Access to /resource/6 should not use the 192.168.1.72 method
+R0203,Users should not delete /resource/7 on weekends
+R0204,Access to /resource/8 should not be from IP 192.168.1.22
+R0205,Users should not access /resource/1 more than 5 times in an hour
+R0206,Access to /resource/3 between 15:00 and 16:00 should be flagged
+R0207,Access to /resource/4 should not use the 192.168.1.72 method
+R0208,Access to /resource/8 from SessionID 192.168.1.99 should be flagged
+R0209,Access to /resource/1 should not be from IP 192.168.1.20
+R0210,Access to /resource/7 from SessionID 192.168.1.93 should be flagged
+R0211,Access from IP /resource/2 should be monitored
+R0212,Any access from UserAgent /resource/10 should be reviewed
+R0213,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0214,Users should not delete /resource/2 more than 2 times in a day
+R0215,Users should not delete /resource/7 on weekends
+R0216,Access to /resource/1 should result in success
+R0217,Access to /resource/3 should not use the 192.168.1.43 method
+R0218,Users should not delete /resource/1 on weekends
+R0219,Access from IP /resource/5 should be monitored
+R0220,Modification of /resource/7 should always be from IP 192.168.1.52
+R0221,Any access from UserAgent /resource/8 should be reviewed
+R0222,Users should not access /resource/4 more than 5 times in an hour
+R0223,Users should not modify /resource/5
+R0224,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0225,Users should not delete /resource/2 more than 2 times in a day
+R0226,Response time for accessing /resource/10 should be less than 500ms
+R0227,Any access from UserAgent /resource/9 should be reviewed
+R0228,Access to /resource/5 from SessionID 192.168.1.95 should be flagged
+R0229,Users should not access /resource/9 between 12:00 and 13:00
+R0230,Users should not modify /resource/6
+R0231,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0232,Users should not delete /resource/8 on weekends
+R0233,Access from IP /resource/6 should be monitored
+R0234,Users should not delete /resource/4 on weekends
+R0235,Any access to /resource/8 resulting in a 192.168.1.92 response code should be reviewed
+R0236,Access to /resource/6 should not use the 192.168.1.21 method
+R0237,Access to /resource/3 should result in success
+R0238,Users should not access /resource/1 between 12:00 and 13:00
+R0239,Access to /resource/8 should not be from IP 192.168.1.70
+R0240,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0241,Users should not modify /resource/10
+R0242,Users should not delete /resource/3 on weekends
+R0243,Users should not access /resource/4 between 12:00 and 13:00
+R0244,Response time for accessing /resource/6 should be less than 500ms
+R0245,Users should not delete /resource/2 more than 2 times in a day
+R0246,Users should not modify /resource/3
+R0247,Response time for accessing /resource/10 should be less than 500ms
+R0248,Users should not access /resource/1 more than 5 times in an hour
+R0249,Any access to /resource/10 resulting in a 192.168.1.80 response code should be reviewed
+R0250,Access from IP /resource/6 should be monitored
+R0251,Any access to /resource/1 resulting in a 192.168.1.29 response code should be reviewed
+R0252,Access to /resource/4 from SessionID 192.168.1.38 should be flagged
+R0253,Users should not access /resource/6 between 12:00 and 13:00
+R0254,Access to /resource/9 from SessionID 192.168.1.27 should be flagged
+R0255,Access to /resource/6 should not use the 192.168.1.45 method
+R0256,Access to /resource/6 should not be from IP 192.168.1.76
+R0257,Users should not modify /resource/3
+R0258,Access to /resource/1 should not be from IP 192.168.1.65
+R0259,Users should not delete /resource/4 on weekends
+R0260,Access to /resource/5 should not use the 192.168.1.45 method
+R0261,Users should not access /resource/8 between 12:00 and 13:00
+R0262,Users should not modify /resource/10
+R0263,Access to /resource/5 should result in success
+R0264,Any access from UserAgent /resource/7 should be reviewed
+R0265,Any access to /resource/6 resulting in a 192.168.1.22 response code should be reviewed
+R0266,Access from IP /resource/10 should be monitored
+R0267,Access from IP /resource/1 should be monitored
+R0268,Access to /resource/2 should not use the 192.168.1.60 method
+R0269,Any access to /resource/7 resulting in a 192.168.1.60 response code should be reviewed
+R0270,Access to /resource/8 from SessionID 192.168.1.39 should be flagged
+R0271,Any access from UserAgent /resource/4 should be reviewed
+R0272,Users should not delete /resource/2 more than 2 times in a day
+R0273,Access to /resource/3 from SessionID 192.168.1.1 should be flagged
+R0274,Access to /resource/1 should result in success
+R0275,Any access from UserAgent /resource/10 should be reviewed
+R0276,Access from IP /resource/7 should be monitored
+R0277,Any access from UserAgent /resource/1 should be reviewed
+R0278,Any access from UserAgent /resource/10 should be reviewed
+R0279,Any access to /resource/6 resulting in a 192.168.1.36 response code should be reviewed
+R0280,Modification of /resource/7 should always be from IP 192.168.1.18
+R0281,Access to /resource/5 should not be from IP 192.168.1.9
+R0282,Any access to /resource/9 resulting in a 192.168.1.73 response code should be reviewed
+R0283,Users should not delete /resource/6 on weekends
+R0284,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0285,Modification of /resource/6 should always be from IP 192.168.1.30
+R0286,Access from IP /resource/2 should be monitored
+R0287,Access to /resource/5 should not be from IP 192.168.1.98
+R0288,Access to /resource/3 between 15:00 and 16:00 should be flagged
+R0289,Modification of /resource/7 should always be from IP 192.168.1.30
+R0290,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0291,Any access to /resource/10 resulting in a 192.168.1.10 response code should be reviewed
+R0292,Access to /resource/7 from SessionID 192.168.1.83 should be flagged
+R0293,Users should not access /resource/10 more than 5 times in an hour
+R0294,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0295,Any access to /resource/1 resulting in a 192.168.1.91 response code should be reviewed
+R0296,Access to /resource/5 should not be from IP 192.168.1.100
+R0297,Access from IP /resource/3 should be monitored
+R0298,Modification of /resource/4 should always be from IP 192.168.1.38
+R0299,Any access to /resource/6 resulting in a 192.168.1.80 response code should be reviewed
+R0300,Users should not delete /resource/6 on weekends
+R0301,Modification of /resource/3 should always be from IP 192.168.1.48
+R0302,Users should not access /resource/7 more than 5 times in an hour
+R0303,Any access to /resource/10 resulting in a 192.168.1.4 response code should be reviewed
+R0304,Access to /resource/3 between 15:00 and 16:00 should be flagged
+R0305,Users should not delete /resource/9 more than 2 times in a day
+R0306,Access to /resource/9 should not use the 192.168.1.81 method
+R0307,Access from IP /resource/9 should be monitored
+R0308,Users should not delete /resource/3 more than 2 times in a day
+R0309,Access to /resource/2 should result in success
+R0310,Access to /resource/3 should result in success
+R0311,Users should not delete /resource/8 on weekends
+R0312,Access to /resource/9 should not be from IP 192.168.1.45
+R0313,Any access to /resource/2 resulting in a 192.168.1.82 response code should be reviewed
+R0314,Access from IP /resource/8 should be monitored
+R0315,Access to /resource/10 should not be from IP 192.168.1.65
+R0316,Access to /resource/7 should result in success
+R0317,Access to /resource/1 should not use the 192.168.1.98 method
+R0318,Users should not delete /resource/5 on weekends
+R0319,Response time for accessing /resource/1 should be less than 500ms
+R0320,Any access to /resource/8 resulting in a 192.168.1.53 response code should be reviewed
+R0321,Modification of /resource/5 should always be from IP 192.168.1.93
+R0322,Any access to /resource/10 resulting in a 192.168.1.74 response code should be reviewed
+R0323,Any access from UserAgent /resource/6 should be reviewed
+R0324,Modification of /resource/2 should always be from IP 192.168.1.70
+R0325,Response time for accessing /resource/9 should be less than 500ms
+R0326,Users should not delete /resource/9 more than 2 times in a day
+R0327,Any access to /resource/3 resulting in a 192.168.1.22 response code should be reviewed
+R0328,Any access from UserAgent /resource/3 should be reviewed
+R0329,Response time for accessing /resource/10 should be less than 500ms
+R0330,Modification of /resource/6 should always be from IP 192.168.1.42
+R0331,Users should not delete /resource/10 more than 2 times in a day
+R0332,Users should not access /resource/4 between 12:00 and 13:00
+R0333,Users should not delete /resource/8 more than 2 times in a day
+R0334,Response time for accessing /resource/5 should be less than 500ms
+R0335,Modification of /resource/7 should always be from IP 192.168.1.88
+R0336,Access to /resource/6 should result in success
+R0337,Any access from UserAgent /resource/7 should be reviewed
+R0338,Any access to /resource/5 resulting in a 192.168.1.57 response code should be reviewed
+R0339,Users should not access /resource/2 more than 5 times in an hour
+R0340,Access to /resource/1 should result in success
+R0341,Users should not modify /resource/7
+R0342,Users should not delete /resource/7 on weekends
+R0343,Any access to /resource/9 resulting in a 192.168.1.23 response code should be reviewed
+R0344,Any access to /resource/8 resulting in a 192.168.1.61 response code should be reviewed
+R0345,Response time for accessing /resource/4 should be less than 500ms
+R0346,Any access to /resource/9 resulting in a 192.168.1.15 response code should be reviewed
+R0347,Access to /resource/9 from SessionID 192.168.1.84 should be flagged
+R0348,Access to /resource/3 should not be from IP 192.168.1.92
+R0349,Users should not delete /resource/1 on weekends
+R0350,Users should not delete /resource/7 more than 2 times in a day
+R0351,Access to /resource/8 should not use the 192.168.1.4 method
+R0352,Users should not access /resource/7 between 12:00 and 13:00
+R0353,Access to /resource/10 from SessionID 192.168.1.72 should be flagged
+R0354,Access to /resource/2 should not use the 192.168.1.91 method
+R0355,Users should not modify /resource/3
+R0356,Users should not access /resource/10 more than 5 times in an hour
+R0357,Response time for accessing /resource/7 should be less than 500ms
+R0358,Response time for accessing /resource/4 should be less than 500ms
+R0359,Access to /resource/7 from SessionID 192.168.1.76 should be flagged
+R0360,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0361,Access to /resource/10 should not be from IP 192.168.1.38
+R0362,Users should not delete /resource/9 on weekends
+R0363,Response time for accessing /resource/7 should be less than 500ms
+R0364,Response time for accessing /resource/8 should be less than 500ms
+R0365,Access from IP /resource/5 should be monitored
+R0366,Users should not access /resource/7 more than 5 times in an hour
+R0367,Access to /resource/8 should not use the 192.168.1.40 method
+R0368,Response time for accessing /resource/3 should be less than 500ms
+R0369,Users should not delete /resource/7 on weekends
+R0370,Access to /resource/6 from SessionID 192.168.1.74 should be flagged
+R0371,Access to /resource/10 should not use the 192.168.1.58 method
+R0372,Access to /resource/7 from SessionID 192.168.1.93 should be flagged
+R0373,Response time for accessing /resource/7 should be less than 500ms
+R0374,Modification of /resource/4 should always be from IP 192.168.1.96
+R0375,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0376,Users should not delete /resource/4 more than 2 times in a day
+R0377,Any access from UserAgent /resource/2 should be reviewed
+R0378,Users should not modify /resource/10
+R0379,Access to /resource/2 should result in success
+R0380,Any access from UserAgent /resource/7 should be reviewed
+R0381,Any access from UserAgent /resource/1 should be reviewed
+R0382,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0383,Access to /resource/9 should not be from IP 192.168.1.41
+R0384,Access to /resource/8 should not be from IP 192.168.1.31
+R0385,Access from IP /resource/1 should be monitored
+R0386,Any access from UserAgent /resource/8 should be reviewed
+R0387,Access to /resource/10 from SessionID 192.168.1.35 should be flagged
+R0388,Access to /resource/6 from SessionID 192.168.1.78 should be flagged
+R0389,Modification of /resource/8 should always be from IP 192.168.1.24
+R0390,Access to /resource/2 should not be from IP 192.168.1.29
+R0391,Access to /resource/6 should not use the 192.168.1.6 method
+R0392,Users should not delete /resource/2 more than 2 times in a day
+R0393,Users should not access /resource/4 more than 5 times in an hour
+R0394,Modification of /resource/5 should always be from IP 192.168.1.19
+R0395,Users should not access /resource/1 more than 5 times in an hour
+R0396,Response time for accessing /resource/2 should be less than 500ms
+R0397,Any access from UserAgent /resource/1 should be reviewed
+R0398,Access to /resource/7 should not be from IP 192.168.1.89
+R0399,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0400,Modification of /resource/1 should always be from IP 192.168.1.57
+R0401,Response time for accessing /resource/10 should be less than 500ms
+R0402,Access to /resource/6 should not be from IP 192.168.1.54
+R0403,Any access to /resource/3 resulting in a 192.168.1.70 response code should be reviewed
+R0404,Access to /resource/2 between 15:00 and 16:00 should be flagged
+R0405,Access from IP /resource/6 should be monitored
+R0406,Access to /resource/1 should result in success
+R0407,Access to /resource/5 should not be from IP 192.168.1.16
+R0408,Access to /resource/9 should result in success
+R0409,Users should not access /resource/6 between 12:00 and 13:00
+R0410,Modification of /resource/10 should always be from IP 192.168.1.46
+R0411,Response time for accessing /resource/6 should be less than 500ms
+R0412,Access from IP /resource/4 should be monitored
+R0413,Any access to /resource/8 resulting in a 192.168.1.73 response code should be reviewed
+R0414,Access from IP /resource/4 should be monitored
+R0415,Access to /resource/6 from SessionID 192.168.1.20 should be flagged
+R0416,Any access to /resource/1 resulting in a 192.168.1.71 response code should be reviewed
+R0417,Access from IP /resource/1 should be monitored
+R0418,Access to /resource/6 should result in success
+R0419,Any access from UserAgent /resource/9 should be reviewed
+R0420,Access to /resource/4 should not use the 192.168.1.35 method
+R0421,Access to /resource/2 should result in success
+R0422,Any access from UserAgent /resource/8 should be reviewed
+R0423,Response time for accessing /resource/1 should be less than 500ms
+R0424,Users should not access /resource/1 more than 5 times in an hour
+R0425,Users should not modify /resource/2
+R0426,Any access from UserAgent /resource/7 should be reviewed
+R0427,Users should not delete /resource/10 more than 2 times in a day
+R0428,Access to /resource/1 from SessionID 192.168.1.62 should be flagged
+R0429,Access from IP /resource/3 should be monitored
+R0430,Any access from UserAgent /resource/10 should be reviewed
+R0431,Access from IP /resource/1 should be monitored
+R0432,Access to /resource/3 should not be from IP 192.168.1.58
+R0433,Access to /resource/7 should result in success
+R0434,Access to /resource/10 from SessionID 192.168.1.41 should be flagged
+R0435,Modification of /resource/10 should always be from IP 192.168.1.12
+R0436,Users should not access /resource/4 between 12:00 and 13:00
+R0437,Access to /resource/4 should not be from IP 192.168.1.40
+R0438,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0439,Users should not access /resource/9 more than 5 times in an hour
+R0440,Users should not access /resource/4 between 12:00 and 13:00
+R0441,Users should not delete /resource/3 more than 2 times in a day
+R0442,Users should not delete /resource/8 more than 2 times in a day
+R0443,Response time for accessing /resource/5 should be less than 500ms
+R0444,Modification of /resource/6 should always be from IP 192.168.1.56
+R0445,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0446,Any access from UserAgent /resource/10 should be reviewed
+R0447,Users should not delete /resource/10 more than 2 times in a day
+R0448,Access to /resource/2 from SessionID 192.168.1.29 should be flagged
+R0449,Any access from UserAgent /resource/8 should be reviewed
+R0450,Modification of /resource/7 should always be from IP 192.168.1.87
+R0451,Access to /resource/2 from SessionID 192.168.1.72 should be flagged
+R0452,Access to /resource/7 should not use the 192.168.1.41 method
+R0453,Access to /resource/10 should not use the 192.168.1.54 method
+R0454,Any access from UserAgent /resource/1 should be reviewed
+R0455,Access to /resource/3 from SessionID 192.168.1.7 should be flagged
+R0456,Access to /resource/7 should not be from IP 192.168.1.37
+R0457,Any access from UserAgent /resource/10 should be reviewed
+R0458,Users should not modify /resource/3
+R0459,Access to /resource/9 from SessionID 192.168.1.94 should be flagged
+R0460,Access to /resource/1 should not use the 192.168.1.86 method
+R0461,Access to /resource/4 should not use the 192.168.1.60 method
+R0462,Access from IP /resource/1 should be monitored
+R0463,Users should not access /resource/9 between 12:00 and 13:00
+R0464,Access to /resource/2 between 15:00 and 16:00 should be flagged
+R0465,Access to /resource/10 should not be from IP 192.168.1.34
+R0466,Any access to /resource/5 resulting in a 192.168.1.40 response code should be reviewed
+R0467,Access to /resource/9 should not be from IP 192.168.1.61
+R0468,Users should not modify /resource/4
+R0469,Access to /resource/1 should result in success
+R0470,Any access from UserAgent /resource/8 should be reviewed
+R0471,Modification of /resource/3 should always be from IP 192.168.1.15
+R0472,Access from IP /resource/4 should be monitored
+R0473,Users should not delete /resource/4 more than 2 times in a day
+R0474,Any access to /resource/7 resulting in a 192.168.1.47 response code should be reviewed
+R0475,Access to /resource/8 should result in success
+R0476,Users should not delete /resource/3 more than 2 times in a day
+R0477,Access to /resource/9 from SessionID 192.168.1.58 should be flagged
+R0478,Access to /resource/1 should not be from IP 192.168.1.29
+R0479,Access to /resource/2 should not be from IP 192.168.1.13
+R0480,Access to /resource/4 should result in success
+R0481,Users should not delete /resource/4 on weekends
+R0482,Users should not delete /resource/7 on weekends
+R0483,Users should not delete /resource/5 on weekends
+R0484,Any access from UserAgent /resource/7 should be reviewed
+R0485,Users should not modify /resource/1
+R0486,Response time for accessing /resource/7 should be less than 500ms
+R0487,Any access from UserAgent /resource/8 should be reviewed
+R0488,Access from IP /resource/4 should be monitored
+R0489,Users should not access /resource/6 between 12:00 and 13:00
+R0490,Users should not access /resource/9 between 12:00 and 13:00
+R0491,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0492,Access from IP /resource/3 should be monitored
+R0493,Access to /resource/1 should result in success
+R0494,Users should not access /resource/5 more than 5 times in an hour
+R0495,Access to /resource/8 should result in success
+R0496,Access to /resource/7 should result in success
+R0497,Access to /resource/2 from SessionID 192.168.1.41 should be flagged
+R0498,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0499,Access from IP /resource/7 should be monitored
+R0500,Access from IP /resource/5 should be monitored
+R0501,Any access to /resource/1 resulting in a 192.168.1.31 response code should be reviewed
+R0502,Any access from UserAgent /resource/3 should be reviewed
+R0503,Access to /resource/2 should result in success
+R0504,Users should not modify /resource/10
+R0505,Access to /resource/9 from SessionID 192.168.1.65 should be flagged
+R0506,Users should not delete /resource/5 more than 2 times in a day
+R0507,Access to /resource/9 from SessionID 192.168.1.24 should be flagged
+R0508,Access to /resource/4 should result in success
+R0509,Access to /resource/10 should not be from IP 192.168.1.60
+R0510,Access to /resource/4 should not use the 192.168.1.59 method
+R0511,Users should not modify /resource/3
+R0512,Access to /resource/5 between 15:00 and 16:00 should be flagged
+R0513,Users should not access /resource/9 more than 5 times in an hour
+R0514,Response time for accessing /resource/7 should be less than 500ms
+R0515,Any access to /resource/8 resulting in a 192.168.1.72 response code should be reviewed
+R0516,Users should not delete /resource/8 on weekends
+R0517,Access from IP /resource/4 should be monitored
+R0518,Response time for accessing /resource/1 should be less than 500ms
+R0519,Access to /resource/1 should not use the 192.168.1.62 method
+R0520,Access to /resource/5 should not use the 192.168.1.53 method
+R0521,Users should not access /resource/2 between 12:00 and 13:00
+R0522,Any access from UserAgent /resource/2 should be reviewed
+R0523,Response time for accessing /resource/4 should be less than 500ms
+R0524,Users should not access /resource/5 more than 5 times in an hour
+R0525,Users should not modify /resource/10
+R0526,Any access from UserAgent /resource/3 should be reviewed
+R0527,Users should not delete /resource/10 on weekends
+R0528,Response time for accessing /resource/1 should be less than 500ms
+R0529,Access to /resource/9 from SessionID 192.168.1.10 should be flagged
+R0530,Response time for accessing /resource/3 should be less than 500ms
+R0531,Users should not access /resource/9 between 12:00 and 13:00
+R0532,Any access from UserAgent /resource/5 should be reviewed
+R0533,Users should not delete /resource/7 on weekends
+R0534,Users should not access /resource/2 between 12:00 and 13:00
+R0535,Response time for accessing /resource/9 should be less than 500ms
+R0536,Users should not delete /resource/4 more than 2 times in a day
+R0537,Access to /resource/9 between 15:00 and 16:00 should be flagged
+R0538,Users should not delete /resource/7 on weekends
+R0539,Access to /resource/3 from SessionID 192.168.1.33 should be flagged
+R0540,Modification of /resource/8 should always be from IP 192.168.1.6
+R0541,Access to /resource/7 from SessionID 192.168.1.76 should be flagged
+R0542,Any access from UserAgent /resource/9 should be reviewed
+R0543,Access to /resource/5 should not be from IP 192.168.1.52
+R0544,Users should not modify /resource/10
+R0545,Access to /resource/9 should result in success
+R0546,Users should not access /resource/8 between 12:00 and 13:00
+R0547,Access to /resource/4 should not be from IP 192.168.1.50
+R0548,Users should not delete /resource/3 on weekends
+R0549,Users should not access /resource/1 between 12:00 and 13:00
+R0550,Access to /resource/7 should result in success
+R0551,Access to /resource/5 should not use the 192.168.1.72 method
+R0552,Users should not delete /resource/7 more than 2 times in a day
+R0553,Any access to /resource/3 resulting in a 192.168.1.90 response code should be reviewed
+R0554,Modification of /resource/10 should always be from IP 192.168.1.51
+R0555,Response time for accessing /resource/7 should be less than 500ms
+R0556,Users should not access /resource/1 between 12:00 and 13:00
+R0557,Users should not delete /resource/9 on weekends
+R0558,Any access from UserAgent /resource/3 should be reviewed
+R0559,Users should not modify /resource/2
+R0560,Response time for accessing /resource/2 should be less than 500ms
+R0561,Access to /resource/9 between 15:00 and 16:00 should be flagged
+R0562,Access to /resource/3 between 15:00 and 16:00 should be flagged
+R0563,Any access from UserAgent /resource/3 should be reviewed
+R0564,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0565,Access to /resource/6 should result in success
+R0566,Any access to /resource/2 resulting in a 192.168.1.2 response code should be reviewed
+R0567,Access to /resource/5 should result in success
+R0568,Access to /resource/9 should result in success
+R0569,Access to /resource/5 from SessionID 192.168.1.97 should be flagged
+R0570,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0571,Users should not delete /resource/6 on weekends
+R0572,Users should not access /resource/8 between 12:00 and 13:00
+R0573,Users should not modify /resource/2
+R0574,Access to /resource/4 should not be from IP 192.168.1.42
+R0575,Access to /resource/6 should result in success
+R0576,Modification of /resource/1 should always be from IP 192.168.1.69
+R0577,Access to /resource/1 should not use the 192.168.1.35 method
+R0578,Users should not access /resource/2 between 12:00 and 13:00
+R0579,Users should not access /resource/9 between 12:00 and 13:00
+R0580,Users should not delete /resource/1 more than 2 times in a day
+R0581,Access from IP /resource/2 should be monitored
+R0582,Access to /resource/5 between 15:00 and 16:00 should be flagged
+R0583,Users should not delete /resource/1 on weekends
+R0584,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0585,Any access to /resource/3 resulting in a 192.168.1.64 response code should be reviewed
+R0586,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0587,Users should not modify /resource/2
+R0588,Users should not access /resource/4 between 12:00 and 13:00
+R0589,Users should not delete /resource/6 more than 2 times in a day
+R0590,Any access from UserAgent /resource/4 should be reviewed
+R0591,Access to /resource/8 should result in success
+R0592,Response time for accessing /resource/5 should be less than 500ms
+R0593,Access to /resource/9 should result in success
+R0594,Access to /resource/7 should not be from IP 192.168.1.60
+R0595,Any access from UserAgent /resource/6 should be reviewed
+R0596,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0597,Modification of /resource/9 should always be from IP 192.168.1.18
+R0598,Access to /resource/4 should not be from IP 192.168.1.94
+R0599,Access to /resource/8 should not be from IP 192.168.1.58
+R0600,Response time for accessing /resource/3 should be less than 500ms
+R0601,Response time for accessing /resource/3 should be less than 500ms
+R0602,Access to /resource/3 should not be from IP 192.168.1.82
+R0603,Access to /resource/8 from SessionID 192.168.1.68 should be flagged
+R0604,Any access to /resource/2 resulting in a 192.168.1.44 response code should be reviewed
+R0605,Users should not delete /resource/4 more than 2 times in a day
+R0606,Any access to /resource/7 resulting in a 192.168.1.49 response code should be reviewed
+R0607,Response time for accessing /resource/2 should be less than 500ms
+R0608,Access to /resource/3 should result in success
+R0609,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0610,Access to /resource/4 should not use the 192.168.1.71 method
+R0611,Access to /resource/4 should not be from IP 192.168.1.48
+R0612,Users should not access /resource/1 between 12:00 and 13:00
+R0613,Access to /resource/8 should result in success
+R0614,Response time for accessing /resource/9 should be less than 500ms
+R0615,Users should not access /resource/4 between 12:00 and 13:00
+R0616,Users should not access /resource/5 more than 5 times in an hour
+R0617,Users should not access /resource/6 more than 5 times in an hour
+R0618,Users should not delete /resource/6 on weekends
+R0619,Access to /resource/6 should not be from IP 192.168.1.1
+R0620,Users should not access /resource/7 between 12:00 and 13:00
+R0621,Access to /resource/10 should result in success
+R0622,Access to /resource/5 should not use the 192.168.1.72 method
+R0623,Users should not delete /resource/7 on weekends
+R0624,Any access to /resource/4 resulting in a 192.168.1.14 response code should be reviewed
+R0625,Access to /resource/3 should not use the 192.168.1.11 method
+R0626,Users should not delete /resource/9 on weekends
+R0627,Users should not modify /resource/4
+R0628,Access to /resource/9 should not be from IP 192.168.1.72
+R0629,Modification of /resource/6 should always be from IP 192.168.1.25
+R0630,Access to /resource/9 should result in success
+R0631,Access to /resource/4 should not be from IP 192.168.1.72
+R0632,Users should not delete /resource/3 on weekends
+R0633,Access to /resource/5 should result in success
+R0634,Access to /resource/9 should not use the 192.168.1.62 method
+R0635,Response time for accessing /resource/3 should be less than 500ms
+R0636,Users should not delete /resource/2 on weekends
+R0637,Users should not access /resource/7 more than 5 times in an hour
+R0638,Users should not access /resource/4 more than 5 times in an hour
+R0639,Response time for accessing /resource/5 should be less than 500ms
+R0640,Any access to /resource/3 resulting in a 192.168.1.79 response code should be reviewed
+R0641,Users should not delete /resource/6 on weekends
+R0642,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0643,Users should not delete /resource/7 more than 2 times in a day
+R0644,Access to /resource/4 should result in success
+R0645,Access to /resource/8 should result in success
+R0646,Access to /resource/4 should not use the 192.168.1.62 method
+R0647,Users should not delete /resource/8 more than 2 times in a day
+R0648,Users should not delete /resource/3 more than 2 times in a day
+R0649,Access to /resource/2 should not use the 192.168.1.23 method
+R0650,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0651,Users should not modify /resource/5
+R0652,Users should not access /resource/9 between 12:00 and 13:00
+R0653,Access to /resource/5 should not be from IP 192.168.1.8
+R0654,Response time for accessing /resource/6 should be less than 500ms
+R0655,Access to /resource/9 from SessionID 192.168.1.56 should be flagged
+R0656,Access to /resource/4 should not be from IP 192.168.1.10
+R0657,Access to /resource/3 should not be from IP 192.168.1.10
+R0658,Access from IP /resource/1 should be monitored
+R0659,Users should not access /resource/10 between 12:00 and 13:00
+R0660,Any access from UserAgent /resource/1 should be reviewed
+R0661,Access to /resource/5 between 15:00 and 16:00 should be flagged
+R0662,Access to /resource/5 should not use the 192.168.1.62 method
+R0663,Access to /resource/10 should not use the 192.168.1.10 method
+R0664,Access to /resource/5 should not use the 192.168.1.28 method
+R0665,Users should not delete /resource/9 more than 2 times in a day
+R0666,Access to /resource/10 should result in success
+R0667,Access to /resource/6 from SessionID 192.168.1.64 should be flagged
+R0668,Access to /resource/6 should not be from IP 192.168.1.71
+R0669,Access to /resource/3 between 15:00 and 16:00 should be flagged
+R0670,Users should not access /resource/2 between 12:00 and 13:00
+R0671,Access to /resource/6 from SessionID 192.168.1.43 should be flagged
+R0672,Users should not modify /resource/9
+R0673,Access from IP /resource/2 should be monitored
+R0674,Modification of /resource/6 should always be from IP 192.168.1.49
+R0675,Users should not modify /resource/10
+R0676,Users should not delete /resource/7 on weekends
+R0677,Access to /resource/5 should result in success
+R0678,Users should not delete /resource/5 on weekends
+R0679,Access to /resource/4 from SessionID 192.168.1.81 should be flagged
+R0680,Users should not delete /resource/3 more than 2 times in a day
+R0681,Access to /resource/5 should not use the 192.168.1.73 method
+R0682,Users should not delete /resource/2 on weekends
+R0683,Access to /resource/4 from SessionID 192.168.1.16 should be flagged
+R0684,Modification of /resource/9 should always be from IP 192.168.1.72
+R0685,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0686,Access to /resource/10 should not be from IP 192.168.1.19
+R0687,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0688,Any access to /resource/6 resulting in a 192.168.1.20 response code should be reviewed
+R0689,Access to /resource/2 should not be from IP 192.168.1.19
+R0690,Users should not delete /resource/3 more than 2 times in a day
+R0691,Any access from UserAgent /resource/1 should be reviewed
+R0692,Access to /resource/8 from SessionID 192.168.1.23 should be flagged
+R0693,Access to /resource/6 should result in success
+R0694,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0695,Users should not delete /resource/4 on weekends
+R0696,Users should not access /resource/4 between 12:00 and 13:00
+R0697,Modification of /resource/8 should always be from IP 192.168.1.93
+R0698,Response time for accessing /resource/2 should be less than 500ms
+R0699,Users should not modify /resource/1
+R0700,Access to /resource/10 should not be from IP 192.168.1.48
+R0701,Access from IP /resource/5 should be monitored
+R0702,Access to /resource/6 should not use the 192.168.1.15 method
+R0703,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0704,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0705,Access to /resource/4 from SessionID 192.168.1.70 should be flagged
+R0706,Users should not delete /resource/10 on weekends
+R0707,Users should not delete /resource/3 more than 2 times in a day
+R0708,Any access from UserAgent /resource/2 should be reviewed
+R0709,Response time for accessing /resource/5 should be less than 500ms
+R0710,Access to /resource/8 should result in success
+R0711,Modification of /resource/5 should always be from IP 192.168.1.78
+R0712,Users should not delete /resource/4 more than 2 times in a day
+R0713,Users should not delete /resource/5 more than 2 times in a day
+R0714,Access to /resource/2 from SessionID 192.168.1.37 should be flagged
+R0715,Access to /resource/2 from SessionID 192.168.1.12 should be flagged
+R0716,Users should not modify /resource/6
+R0717,Access to /resource/7 should not use the 192.168.1.1 method
+R0718,Users should not modify /resource/6
+R0719,Access to /resource/7 from SessionID 192.168.1.1 should be flagged
+R0720,Users should not modify /resource/2
+R0721,Any access from UserAgent /resource/9 should be reviewed
+R0722,Response time for accessing /resource/2 should be less than 500ms
+R0723,Access to /resource/7 should result in success
+R0724,Modification of /resource/1 should always be from IP 192.168.1.37
+R0725,Users should not modify /resource/8
+R0726,Users should not delete /resource/10 more than 2 times in a day
+R0727,Users should not access /resource/2 between 12:00 and 13:00
+R0728,Access from IP /resource/3 should be monitored
+R0729,Access to /resource/8 should result in success
+R0730,Access to /resource/2 between 15:00 and 16:00 should be flagged
+R0731,Access to /resource/8 should result in success
+R0732,Access to /resource/1 should not use the 192.168.1.2 method
+R0733,Access to /resource/1 should not be from IP 192.168.1.57
+R0734,Users should not delete /resource/8 on weekends
+R0735,Access to /resource/1 from SessionID 192.168.1.34 should be flagged
+R0736,Response time for accessing /resource/2 should be less than 500ms
+R0737,Access from IP /resource/1 should be monitored
+R0738,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0739,Access to /resource/8 should not use the 192.168.1.53 method
+R0740,Access to /resource/8 should not be from IP 192.168.1.87
+R0741,Users should not delete /resource/6 more than 2 times in a day
+R0742,Any access to /resource/1 resulting in a 192.168.1.37 response code should be reviewed
+R0743,Access to /resource/8 should not be from IP 192.168.1.35
+R0744,Users should not modify /resource/1
+R0745,Access to /resource/2 from SessionID 192.168.1.13 should be flagged
+R0746,Access to /resource/3 should not be from IP 192.168.1.85
+R0747,Any access from UserAgent /resource/5 should be reviewed
+R0748,Users should not delete /resource/3 on weekends
+R0749,Any access to /resource/3 resulting in a 192.168.1.93 response code should be reviewed
+R0750,Access from IP /resource/2 should be monitored
+R0751,Response time for accessing /resource/10 should be less than 500ms
+R0752,Any access from UserAgent /resource/7 should be reviewed
+R0753,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0754,Users should not access /resource/6 more than 5 times in an hour
+R0755,Any access from UserAgent /resource/1 should be reviewed
+R0756,Users should not delete /resource/5 on weekends
+R0757,Access to /resource/4 should not use the 192.168.1.82 method
+R0758,Any access to /resource/10 resulting in a 192.168.1.51 response code should be reviewed
+R0759,Response time for accessing /resource/1 should be less than 500ms
+R0760,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0761,Modification of /resource/4 should always be from IP 192.168.1.96
+R0762,Modification of /resource/1 should always be from IP 192.168.1.16
+R0763,Any access from UserAgent /resource/8 should be reviewed
+R0764,Modification of /resource/2 should always be from IP 192.168.1.9
+R0765,Access to /resource/1 should result in success
+R0766,Users should not delete /resource/5 on weekends
+R0767,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0768,Access to /resource/7 from SessionID 192.168.1.31 should be flagged
+R0769,Access to /resource/2 from SessionID 192.168.1.95 should be flagged
+R0770,Any access to /resource/3 resulting in a 192.168.1.83 response code should be reviewed
+R0771,Users should not delete /resource/3 more than 2 times in a day
+R0772,Users should not access /resource/6 between 12:00 and 13:00
+R0773,Modification of /resource/8 should always be from IP 192.168.1.13
+R0774,Access to /resource/7 should result in success
+R0775,Access to /resource/5 between 15:00 and 16:00 should be flagged
+R0776,Users should not access /resource/1 more than 5 times in an hour
+R0777,Any access from UserAgent /resource/9 should be reviewed
+R0778,Users should not access /resource/1 between 12:00 and 13:00
+R0779,Response time for accessing /resource/9 should be less than 500ms
+R0780,Users should not modify /resource/1
+R0781,Any access from UserAgent /resource/6 should be reviewed
+R0782,Access from IP /resource/10 should be monitored
+R0783,Access to /resource/9 should result in success
+R0784,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0785,Users should not access /resource/1 more than 5 times in an hour
+R0786,Users should not access /resource/10 between 12:00 and 13:00
+R0787,Modification of /resource/3 should always be from IP 192.168.1.25
+R0788,Access to /resource/3 should result in success
+R0789,Access to /resource/10 should not use the 192.168.1.97 method
+R0790,Users should not access /resource/5 between 12:00 and 13:00
+R0791,Users should not delete /resource/8 on weekends
+R0792,Response time for accessing /resource/10 should be less than 500ms
+R0793,Access to /resource/6 should result in success
+R0794,Access to /resource/5 should not use the 192.168.1.23 method
+R0795,Access from IP /resource/4 should be monitored
+R0796,Users should not delete /resource/5 on weekends
+R0797,Access to /resource/1 from SessionID 192.168.1.84 should be flagged
+R0798,Users should not modify /resource/5
+R0799,Access to /resource/3 should result in success
+R0800,Response time for accessing /resource/4 should be less than 500ms
+R0801,Access to /resource/8 should result in success
+R0802,Access to /resource/9 should not be from IP 192.168.1.14
+R0803,Any access from UserAgent /resource/3 should be reviewed
+R0804,Users should not access /resource/8 between 12:00 and 13:00
+R0805,Users should not access /resource/5 between 12:00 and 13:00
+R0806,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0807,Access from IP /resource/7 should be monitored
+R0808,Access to /resource/7 should not be from IP 192.168.1.13
+R0809,Users should not delete /resource/7 more than 2 times in a day
+R0810,Any access from UserAgent /resource/6 should be reviewed
+R0811,Response time for accessing /resource/7 should be less than 500ms
+R0812,Access to /resource/3 from SessionID 192.168.1.55 should be flagged
+R0813,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0814,Users should not delete /resource/6 more than 2 times in a day
+R0815,Access to /resource/7 should not use the 192.168.1.37 method
+R0816,Users should not modify /resource/9
+R0817,Any access to /resource/4 resulting in a 192.168.1.56 response code should be reviewed
+R0818,Response time for accessing /resource/1 should be less than 500ms
+R0819,Access to /resource/8 should result in success
+R0820,Any access to /resource/6 resulting in a 192.168.1.11 response code should be reviewed
+R0821,Users should not delete /resource/9 more than 2 times in a day
+R0822,Users should not modify /resource/4
+R0823,Access to /resource/7 should not be from IP 192.168.1.35
+R0824,Users should not access /resource/2 more than 5 times in an hour
+R0825,Access to /resource/8 should not use the 192.168.1.45 method
+R0826,Access from IP /resource/1 should be monitored
+R0827,Access to /resource/3 from SessionID 192.168.1.8 should be flagged
+R0828,Any access to /resource/4 resulting in a 192.168.1.29 response code should be reviewed
+R0829,Access from IP /resource/7 should be monitored
+R0830,Response time for accessing /resource/6 should be less than 500ms
+R0831,Access to /resource/5 should not use the 192.168.1.87 method
+R0832,Users should not access /resource/4 more than 5 times in an hour
+R0833,Access to /resource/6 should not use the 192.168.1.80 method
+R0834,Access to /resource/6 should not be from IP 192.168.1.46
+R0835,Users should not delete /resource/8 more than 2 times in a day
+R0836,Access to /resource/5 should not be from IP 192.168.1.69
+R0837,Access to /resource/9 should not be from IP 192.168.1.35
+R0838,Any access from UserAgent /resource/8 should be reviewed
+R0839,Access to /resource/8 should result in success
+R0840,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0841,Users should not modify /resource/6
+R0842,Access to /resource/8 from SessionID 192.168.1.76 should be flagged
+R0843,Users should not delete /resource/7 more than 2 times in a day
+R0844,Response time for accessing /resource/3 should be less than 500ms
+R0845,Any access to /resource/1 resulting in a 192.168.1.80 response code should be reviewed
+R0846,Access to /resource/2 should result in success
+R0847,Access from IP /resource/9 should be monitored
+R0848,Access to /resource/5 should not use the 192.168.1.97 method
+R0849,Any access to /resource/7 resulting in a 192.168.1.8 response code should be reviewed
+R0850,Access from IP /resource/5 should be monitored
+R0851,Access to /resource/6 should result in success
+R0852,Users should not delete /resource/8 more than 2 times in a day
+R0853,Users should not access /resource/2 more than 5 times in an hour
+R0854,Any access to /resource/3 resulting in a 192.168.1.10 response code should be reviewed
+R0855,Any access from UserAgent /resource/8 should be reviewed
+R0856,Users should not modify /resource/5
+R0857,Response time for accessing /resource/8 should be less than 500ms
+R0858,Access to /resource/3 should result in success
+R0859,Modification of /resource/1 should always be from IP 192.168.1.43
+R0860,Access to /resource/5 from SessionID 192.168.1.64 should be flagged
+R0861,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0862,Access to /resource/4 should result in success
+R0863,Any access from UserAgent /resource/1 should be reviewed
+R0864,Users should not access /resource/7 between 12:00 and 13:00
+R0865,Access to /resource/1 should result in success
+R0866,Users should not access /resource/3 between 12:00 and 13:00
+R0867,Access to /resource/2 from SessionID 192.168.1.53 should be flagged
+R0868,Any access from UserAgent /resource/4 should be reviewed
+R0869,Response time for accessing /resource/6 should be less than 500ms
+R0870,Access from IP /resource/5 should be monitored
+R0871,Access to /resource/5 should not use the 192.168.1.33 method
+R0872,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0873,Access to /resource/5 should result in success
+R0874,Any access from UserAgent /resource/1 should be reviewed
+R0875,Any access to /resource/6 resulting in a 192.168.1.62 response code should be reviewed
+R0876,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0877,Access to /resource/6 should result in success
+R0878,Modification of /resource/4 should always be from IP 192.168.1.65
+R0879,Access to /resource/7 should result in success
+R0880,Users should not delete /resource/1 more than 2 times in a day
+R0881,Access to /resource/8 should not use the 192.168.1.85 method
+R0882,Users should not access /resource/7 between 12:00 and 13:00
+R0883,Users should not delete /resource/4 on weekends
+R0884,Response time for accessing /resource/2 should be less than 500ms
+R0885,Users should not access /resource/2 more than 5 times in an hour
+R0886,Any access to /resource/8 resulting in a 192.168.1.92 response code should be reviewed
+R0887,Access to /resource/2 from SessionID 192.168.1.99 should be flagged
+R0888,Users should not delete /resource/2 more than 2 times in a day
+R0889,Access from IP /resource/10 should be monitored
+R0890,Users should not delete /resource/10 on weekends
+R0891,Users should not access /resource/10 more than 5 times in an hour
+R0892,Users should not access /resource/6 between 12:00 and 13:00
+R0893,Users should not access /resource/9 more than 5 times in an hour
+R0894,Users should not delete /resource/2 on weekends
+R0895,Access from IP /resource/8 should be monitored
+R0896,Users should not modify /resource/10
+R0897,Users should not modify /resource/2
+R0898,Access to /resource/5 should result in success
+R0899,Users should not delete /resource/4 on weekends
+R0900,Access to /resource/2 between 15:00 and 16:00 should be flagged
+R0901,Access to /resource/7 should not be from IP 192.168.1.19
+R0902,Response time for accessing /resource/7 should be less than 500ms
+R0903,Access to /resource/7 from SessionID 192.168.1.58 should be flagged
+R0904,Access to /resource/6 should not use the 192.168.1.17 method
+R0905,Users should not delete /resource/2 more than 2 times in a day
+R0906,Users should not delete /resource/9 more than 2 times in a day
+R0907,Any access to /resource/4 resulting in a 192.168.1.17 response code should be reviewed
+R0908,Modification of /resource/2 should always be from IP 192.168.1.64
+R0909,Access to /resource/4 between 15:00 and 16:00 should be flagged
+R0910,Modification of /resource/10 should always be from IP 192.168.1.66
+R0911,Users should not access /resource/3 more than 5 times in an hour
+R0912,Users should not modify /resource/1
+R0913,Users should not delete /resource/9 on weekends
+R0914,Modification of /resource/10 should always be from IP 192.168.1.38
+R0915,Access to /resource/1 from SessionID 192.168.1.49 should be flagged
+R0916,Users should not access /resource/9 more than 5 times in an hour
+R0917,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0918,Access to /resource/3 should not use the 192.168.1.79 method
+R0919,Any access from UserAgent /resource/7 should be reviewed
+R0920,Modification of /resource/8 should always be from IP 192.168.1.36
+R0921,Access to /resource/4 should result in success
+R0922,Any access from UserAgent /resource/7 should be reviewed
+R0923,Any access to /resource/9 resulting in a 192.168.1.55 response code should be reviewed
+R0924,Any access from UserAgent /resource/10 should be reviewed
+R0925,Access from IP /resource/9 should be monitored
+R0926,Access to /resource/3 from SessionID 192.168.1.73 should be flagged
+R0927,Access to /resource/3 should not use the 192.168.1.45 method
+R0928,Access from IP /resource/1 should be monitored
+R0929,Users should not modify /resource/10
+R0930,Access to /resource/2 between 15:00 and 16:00 should be flagged
+R0931,Any access from UserAgent /resource/9 should be reviewed
+R0932,Users should not modify /resource/8
+R0933,Any access from UserAgent /resource/1 should be reviewed
+R0934,Access from IP /resource/9 should be monitored
+R0935,Access to /resource/6 should not be from IP 192.168.1.50
+R0936,Users should not modify /resource/9
+R0937,Any access to /resource/7 resulting in a 192.168.1.55 response code should be reviewed
+R0938,Any access from UserAgent /resource/6 should be reviewed
+R0939,Access to /resource/10 between 15:00 and 16:00 should be flagged
+R0940,Users should not access /resource/5 more than 5 times in an hour
+R0941,Access to /resource/5 should not use the 192.168.1.56 method
+R0942,Users should not access /resource/10 more than 5 times in an hour
+R0943,Any access to /resource/3 resulting in a 192.168.1.35 response code should be reviewed
+R0944,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0945,Access to /resource/10 from SessionID 192.168.1.17 should be flagged
+R0946,Access to /resource/9 from SessionID 192.168.1.69 should be flagged
+R0947,Any access to /resource/1 resulting in a 192.168.1.73 response code should be reviewed
+R0948,Modification of /resource/1 should always be from IP 192.168.1.79
+R0949,Users should not modify /resource/5
+R0950,Access to /resource/7 between 15:00 and 16:00 should be flagged
+R0951,Any access to /resource/7 resulting in a 192.168.1.28 response code should be reviewed
+R0952,Access to /resource/3 between 15:00 and 16:00 should be flagged
+R0953,Users should not delete /resource/8 on weekends
+R0954,Access to /resource/2 should result in success
+R0955,Response time for accessing /resource/1 should be less than 500ms
+R0956,Users should not delete /resource/6 more than 2 times in a day
+R0957,Access to /resource/9 between 15:00 and 16:00 should be flagged
+R0958,Access to /resource/8 between 15:00 and 16:00 should be flagged
+R0959,Access to /resource/8 should result in success
+R0960,Users should not modify /resource/9
+R0961,Access to /resource/2 from SessionID 192.168.1.100 should be flagged
+R0962,Access to /resource/2 between 15:00 and 16:00 should be flagged
+R0963,Any access from UserAgent /resource/9 should be reviewed
+R0964,Access to /resource/1 should not use the 192.168.1.80 method
+R0965,Users should not delete /resource/5 on weekends
+R0966,Any access from UserAgent /resource/8 should be reviewed
+R0967,Access to /resource/4 should result in success
+R0968,Users should not modify /resource/7
+R0969,Users should not modify /resource/7
+R0970,Access to /resource/7 should not use the 192.168.1.16 method
+R0971,Any access to /resource/10 resulting in a 192.168.1.76 response code should be reviewed
+R0972,Response time for accessing /resource/9 should be less than 500ms
+R0973,Access to /resource/9 should not use the 192.168.1.94 method
+R0974,Any access to /resource/8 resulting in a 192.168.1.1 response code should be reviewed
+R0975,Access from IP /resource/2 should be monitored
+R0976,Users should not access /resource/1 more than 5 times in an hour
+R0977,Users should not delete /resource/3 on weekends
+R0978,Users should not delete /resource/10 more than 2 times in a day
+R0979,Users should not delete /resource/10 more than 2 times in a day
+R0980,Any access from UserAgent /resource/6 should be reviewed
+R0981,Modification of /resource/7 should always be from IP 192.168.1.29
+R0982,Access to /resource/10 should not be from IP 192.168.1.25
+R0983,Access to /resource/1 should result in success
+R0984,Access to /resource/2 should not be from IP 192.168.1.93
+R0985,Access to /resource/6 between 15:00 and 16:00 should be flagged
+R0986,Access to /resource/7 should result in success
+R0987,Access to /resource/3 between 15:00 and 16:00 should be flagged
+R0988,Access from IP /resource/2 should be monitored
+R0989,Access to /resource/6 should not use the 192.168.1.62 method
+R0990,Response time for accessing /resource/1 should be less than 500ms
+R0991,Users should not modify /resource/7
+R0992,Access to /resource/10 should not use the 192.168.1.53 method
+R0993,Access to /resource/6 from SessionID 192.168.1.46 should be flagged
+R0994,Modification of /resource/5 should always be from IP 192.168.1.54
+R0995,Access to /resource/2 should not be from IP 192.168.1.70
+R0996,Access to /resource/1 between 15:00 and 16:00 should be flagged
+R0997,Access from IP /resource/10 should be monitored
+R0998,Access to /resource/5 between 15:00 and 16:00 should be flagged
+R0999,Access from IP /resource/2 should be monitored
+R1000,Access to /resource/5 between 15:00 and 16:00 should be flagged
